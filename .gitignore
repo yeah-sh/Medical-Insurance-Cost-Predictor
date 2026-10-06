@@ -15,3 +15,11 @@ __pycache__/
 
 # VS Code workspace settings
 .vscode/
+
+# Local datasets
+data/*
+!data/README.md
+
+# Saved model files
+models/*.pkl
+models/*.joblib
